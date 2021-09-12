@@ -1,4 +1,4 @@
-*REACT SQL ASP.NET PROJECT*
+*REACT SQL ASP.NET PROJECT*<br>
 Welcome to this project on Fullstack web development! For this project I will be using React JS for front end, dot net core API for backend and 
 microsoft SQL server for the database.
 
