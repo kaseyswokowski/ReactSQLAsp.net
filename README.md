@@ -1,8 +1,10 @@
-*REACT SQL ASP.NET PROJECT*<br>
+# REACT SQL ASP.NET PROJECT #<br>
+
+
 Welcome to this project on Fullstack web development! For this project I will be using React JS for front end, dot net core API for backend and 
 microsoft SQL server for the database.
 
-*Features*
+#Features#
 Navigation menu with routing in react<br> 
 Display data in bootstrap table <br>
 Add modal pop up window with dropdowns and date pickers <br>
