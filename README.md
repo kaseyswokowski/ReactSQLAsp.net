@@ -8,4 +8,4 @@ microsoft SQL server for the database.
 Navigation menu with routing in react<br> 
 Display data in bootstrap table <br>
 Add modal pop up window with dropdowns and date pickers <br>
-Uload photo and store it in the backend server.<br>
+Upload photo and store it in the backend server.<br>
